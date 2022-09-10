@@ -1,0 +1,18 @@
+.filterContainer{
+    display: flex;
+    width: 100%;
+}
+.searchBox{
+    width: 55%;
+    margin-right: 17px;
+}
+.sortBox{
+    width: 25%;
+    
+}
+.line_shadow{
+    box-shadow: 2px 2px 2px  gray;
+}
+
+
+

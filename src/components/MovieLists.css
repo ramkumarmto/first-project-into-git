@@ -1,0 +1,31 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+.movie{
+    box-shadow: 2px 2px 2px rgb(173, 169, 169); 
+    width: 240px;
+    margin: 6px;
+}
+.movie_header_box{
+    height: 70px;
+    width: 240px;
+    background-color: gray;
+    border-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.movie_name{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+.movie_details_box{
+    /* height: 70px; */
+    width: 240px;
+    padding: 10px;
+    border-radius: 5px;
+}
